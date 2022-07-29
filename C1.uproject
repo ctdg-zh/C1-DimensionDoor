@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4B9ABF94-48D2-6CF0-9C75-9F938D21AB02}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "C1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "RenderDocPlugin",
+			"Enabled": true
+		}
+	]
+}

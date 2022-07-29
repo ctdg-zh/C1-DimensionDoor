@@ -1,0 +1,3 @@
+[submodule "LuaSource"]
+	path = LuaSource
+	url = ssh://git@git-internal.nie.netease.com:32200/racing/race-client-logic.git

@@ -167,11 +167,6 @@
 !/Plugins/NetHTProtector/ThirdParty/***
 !/Plugins/AntiCheatSDK/ThirdParty/***
 
-# Ignore content folders
-Content/
-WWiseProject/
-LuaSource/
-
 !/Plugins/HoudiniEngine/***
 !/Plugins/Prefabricator/***
 !/Plugins/RMAFoliageTools/***
